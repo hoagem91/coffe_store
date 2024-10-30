@@ -9,3 +9,15 @@ F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debu
 F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.CoreCompileInputs.cache
 F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.exe
 F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.pdb
+D:\study\monky4\.net\coffe_store\coffe_store\bin\Debug\coffe_store.exe.config
+D:\study\monky4\.net\coffe_store\coffe_store\bin\Debug\coffe_store.exe
+D:\study\monky4\.net\coffe_store\coffe_store\bin\Debug\coffe_store.pdb
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.AssemblyReference.cache
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.donhang.resources
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.Form1.resources
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.Properties.Resources.resources
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.GenerateResource.cache
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.CoreCompileInputs.cache
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.exe
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.pdb
+D:\study\monky4\.net\coffe_store\coffe_store\obj\Debug\coffe_store.Login.resources

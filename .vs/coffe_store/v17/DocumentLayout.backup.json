@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\",
+  "WorkspaceRootPath": "D:\\study\\monky4\\.net\\coffe_store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coffe_store\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|d:\\study\\monky4\\.net\\coffe_store\\coffe_store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|solutionrelative:coffe_store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coffe_store\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|d:\\study\\monky4\\.net\\coffe_store\\coffe_store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|solutionrelative:coffe_store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:coffe_store\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|d:\\study\\monky4\\.net\\coffe_store\\coffe_store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|solutionrelative:coffe_store\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|d:\\study\\monky4\\.net\\coffe_store\\coffe_store\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|solutionrelative:coffe_store\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|solutionrelative:coffe_store\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D14E329-5284-42BA-AFB6-B5F3B0730ACB}|coffe_store\\coffe_store.csproj|solutionrelative:coffe_store\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,41 +37,83 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "donhang.cs [Design]",
-              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\donhang.cs",
-              "RelativeDocumentMoniker": "coffe_store\\donhang.cs",
-              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\donhang.cs [Design]",
-              "RelativeToolTip": "coffe_store\\donhang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T02:28:17.134Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "coffe_store\\Form1.Designer.cs",
-              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\Form1.Designer.cs",
-              "RelativeToolTip": "coffe_store\\Form1.Designer.cs",
-              "ViewState": "AgIAAPoAAAAAAAAAAAAowCcBAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Form1.cs",
+              "RelativeDocumentMoniker": "coffe_store\\Form1.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Form1.cs [Design]",
+              "RelativeToolTip": "coffe_store\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:31:26.321Z",
+              "WhenOpened": "2024-10-30T15:57:45.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Login.cs",
+              "RelativeDocumentMoniker": "coffe_store\\Login.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Login.cs",
+              "RelativeToolTip": "coffe_store\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:54:04.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "coffe_store\\Login.Designer.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Login.Designer.cs",
+              "RelativeToolTip": "coffe_store\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:54:26.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\Form1.cs",
-              "RelativeDocumentMoniker": "coffe_store\\Form1.cs",
-              "ToolTip": "F:\\WorkSpace\\Program-Language\\WinformC#\\product\\coffe_store\\coffe_store\\Form1.cs",
-              "RelativeToolTip": "coffe_store\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Login.cs",
+              "RelativeDocumentMoniker": "coffe_store\\Login.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Login.cs [Design]",
+              "RelativeToolTip": "coffe_store\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T02:31:17.952Z",
+              "WhenOpened": "2024-10-30T15:54:24.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Program.cs",
+              "RelativeDocumentMoniker": "coffe_store\\Program.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\Program.cs",
+              "RelativeToolTip": "coffe_store\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:47:39.697Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "donhang.cs [Design]",
+              "DocumentMoniker": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\donhang.cs",
+              "RelativeDocumentMoniker": "coffe_store\\donhang.cs",
+              "ToolTip": "D:\\study\\monky4\\.net\\coffe_store\\coffe_store\\donhang.cs [Design]",
+              "RelativeToolTip": "coffe_store\\donhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:28:17.134Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
