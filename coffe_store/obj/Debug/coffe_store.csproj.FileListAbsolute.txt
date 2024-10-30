@@ -1,0 +1,11 @@
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\bin\Debug\coffe_store.exe.config
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\bin\Debug\coffe_store.exe
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\bin\Debug\coffe_store.pdb
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.AssemblyReference.cache
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.donhang.resources
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.Form1.resources
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.Properties.Resources.resources
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.GenerateResource.cache
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.csproj.CoreCompileInputs.cache
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.exe
+F:\WorkSpace\Program-Language\WinformC#\product\coffe_store\coffe_store\obj\Debug\coffe_store.pdb
